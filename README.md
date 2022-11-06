@@ -2,5 +2,5 @@
         
 - 👀 I’m interested in learning further and gaining experience in Data Science and Data Analytics. I'm particularly interested in Business- and Sports-Analytics.
 
-- 📫 How to reach me  -->  Mobile Phone: +34 630 72 61 84
+- 📫 How to reach me  -->  Mobile Phone: +34 630 72 61 84 ;
                             Email: pesatomu.r.m@gmail.com
