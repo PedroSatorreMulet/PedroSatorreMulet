@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PedroSatorreMulet, a Spanish MSc. Data Science student at Universität Potsdam (Germany).
+- 👋 Hi, I’m @PedroSatorreMulet, a Spanish MSc. Data Science student at Universität Potsdam (Germany), instructed in collaboration with the Hasso Plattner Institut (HPI).
         
 - 👀 I’m interested in learning further and gaining experience in Data Science and Data Analytics. I'm particularly interested in Business- and Sports-Analytics.
 
